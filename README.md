@@ -1,3 +1,3 @@
 srcacmlab2
 
-use http://qdbmp.sourceforge.net/ to plot the complexity functions
+use http://qdbmp.sourceforge.net/ to plot the computational complexity functions
