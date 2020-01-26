@@ -4,6 +4,7 @@
 /****************************************************************************************************
 * N.Kozak // Lviv'2018 // ACM // An example of displaying the functions of computational complexity *
 *    file: acmlab2.cpp                                                                              *
+*                                                       (used QDBMP: http://qdbmp.sourceforge.net/) *
 *****************************************************************************************************/
 //#pragma once
 //#include "stdafx.h"
