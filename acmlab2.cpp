@@ -16,7 +16,7 @@
 #include <string.h>
 #include <math.h>
 #include <time.h>
-#include "acmlab2.c"
+#include "acmlab2.cpp"
 
 #define OUTPUT_SIZE   512
 #define OUTPUT_WIDTH  OUTPUT_SIZE
