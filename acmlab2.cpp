@@ -139,7 +139,7 @@ int main(int argc, char* argv[])
 	printf("An example file may be located:\r\n");
 	printf("                \"..\\Visual Studio 2013\\Projects\\amolab2\\amolab2\\out.bmp\"\r\n");
 	printf("After closing the program, open it manually.\r\n\r\n");
-	printf("Press any key to continue . . .");
+	printf("Press Enter to continue . . .");
 	(void)getchar();
 
 	return 0;
