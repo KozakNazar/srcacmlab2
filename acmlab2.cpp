@@ -140,7 +140,7 @@ int main(int argc, char* argv[])
 	printf("                \"..\\Visual Studio 2013\\Projects\\amolab2\\amolab2\\out.bmp\"\r\n");
 	printf("After closing the program, open it manually.\r\n\r\n");
 	printf("Press any key to continue . . .");
-	getchar();
+	(void)getchar();
 
 	return 0;
 }
