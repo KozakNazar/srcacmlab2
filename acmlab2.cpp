@@ -135,9 +135,11 @@ int main(int argc, char* argv[])
 	BMP_Free(outputForK4);
 	BMP_Free(outputForK5);	
 
-	printf("Result writed to \"out.bmp\".\r\n");
+	printf("Result writed to \"K3.bmp\", \"K4.bmp\" and \"K5.bmp\".\r\n");
 	printf("An example file may be located:\r\n");
-	printf("                \"..\\Visual Studio 2013\\Projects\\amolab2\\amolab2\\out.bmp\"\r\n");
+	printf("                \"..\\Visual Studio 2013\\Projects\\amolab2\\amolab2\\K3.bmp\"\r\n");
+	printf("                \"..\\Visual Studio 2013\\Projects\\amolab2\\amolab2\\K4.bmp\"\r\n");
+	printf("                \"..\\Visual Studio 2013\\Projects\\amolab2\\amolab2\\K5.bmp\"\r\n");
 	printf("After closing the program, open it manually.\r\n\r\n");
 	printf("Press Enter to continue . . .");
 	(void)getchar();
